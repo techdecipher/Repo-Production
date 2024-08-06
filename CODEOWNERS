@@ -1,0 +1,7 @@
+# Assign @waytopranav as the reviewer for dump.html
+
+dump.html @waytopranav
+
+# Assign @waytopranav as the reviewer for tmp directory
+
+tmp @waytopranav
